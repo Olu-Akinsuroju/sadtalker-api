@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+!.env.example
+*.mp4
+*.wav
+*.jpg
+*.png
+/tmp/
